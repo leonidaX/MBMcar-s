@@ -112,14 +112,14 @@ section {
 }
 
 .slide3 {
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/bg_banner3.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/b3.PNG);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .slide33 {
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/logo.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/b1.PNG);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -133,7 +133,7 @@ section {
 }
 
 .slide5 {
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/bg_banner5.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/b2.PNG);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -255,6 +255,13 @@ text-align: center;}
 }
 
 
+#milestone0 {
+    background: linear-gradient(rgba(245, 244, 244, 0),rgba(252, 252, 252, 0)), url(../img/weare.PNG);
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 #milestone {
     background: linear-gradient(rgba(245, 244, 244, 0),rgba(252, 252, 252, 0)), url(../img/offre.png);
     background-size: cover;
@@ -285,7 +292,7 @@ text-align: center;}
 }
 
 #milestone4 {
-    background: linear-gradient(rgba(250, 9, 9, 0),rgba(250, 9, 9, 0)), url(../img/bonus.png);
+    background: linear-gradient(rgba(250, 9, 9, 0),rgba(250, 9, 9, 0)), url(../img/bonus.PNG);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
